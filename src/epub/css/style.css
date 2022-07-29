@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* Styles for Sub Terra */
+
+body {
+  margin: 15%;
+}
+
+p {
+  text-align: justify;
+}
+
+h1,h3,h4,h5,h6 {
+  text-align: left;
+}
+
+h2 {
+  text-align: right;
+  font-style: italic;
+}
+.noindent {
+  display: block;
+  font-size: 1.14286em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+}
+.no-space {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.indent {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  text-indent: 1.5em;
+}

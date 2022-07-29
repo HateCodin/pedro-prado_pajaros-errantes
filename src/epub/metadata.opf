@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Pajaros Errantes</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Pedro Prado</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">Chilelibros</dc:contributor>
+    <dc:language>spa</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="portada" href="txt/portada.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ujbMgCHU7LbxO24cUkL9bu5" href="img/cover.png" media-type="image/png"/>
+    <item href="txt/portadaInterior.xhtml" id="portadaInterior" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id" href="css/style.css" media-type="text/css"/>
+    <item id="portadaInterior" href="txt/portada_interior.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="txt/poemas_menores.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="txt/los_secretos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="txt/otono.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="txt/el_mar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="txt/inquietud.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="txt/breves_historias.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="txt/los_ninos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="txt/malezas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="img/portada.jpg" media-type="image/jpeg"/>
+    <item id="titlepage" href="txt/titlepage.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="portada"/>
+    <itemref idref="portadaInterior"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id9"/>
+    <itemref idref="id9"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="txt/titlepage.xhtml"/>
+  </guide>
+</package>
