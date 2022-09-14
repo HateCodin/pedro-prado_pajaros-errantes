@@ -2,8 +2,8 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
   <head>
     <meta name="dtb:uid" content="83313918-4641-43c7-b46b-b1d14f3f2f6e"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (5.42.0)"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.3.0)"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
@@ -13,21 +13,267 @@
   <navMap>
     <navPoint id="num_1" playOrder="1">
       <navLabel>
-        <text>Cover</text>
+        <text>Portada</text>
       </navLabel>
-      <content src="txt/portada.xhtml"/>
+      <content src="txt/titlepage.xhtml#toc_1"/>
     </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
-        <text>Start</text>
+        <text>Poemas Menores</text>
       </navLabel>
-      <content src="txt/portadaInterior.xhtml"/>
+      <content src="txt/poemas_menores.xhtml#toc_1"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Los Pájaros Errantes</text>
+        </navLabel>
+        <content src="txt/poemas_menores.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>La Pesca</text>
+        </navLabel>
+        <content src="txt/poemas_menores.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>El poema de la buena muerte</text>
+        </navLabel>
+        <content src="txt/poemas_menores.xhtml#toc_3"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>La Tierra</text>
+        </navLabel>
+        <content src="txt/poemas_menores.xhtml#toc_4"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Palabras</text>
+        </navLabel>
+        <content src="txt/poemas_menores.xhtml#toc_5"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="num_3" playOrder="3">
+    <navPoint id="num_8" playOrder="8">
       <navLabel>
-        <text>Pajaros Errantes</text>
+        <text>Los Sectretos</text>
       </navLabel>
-      <content src="txt/start.xhtml"/>
+      <content src="txt/los_secretos.xhtml#toc_1"/>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Mi Canto</text>
+        </navLabel>
+        <content src="txt/los_secretos.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>La Alegría</text>
+        </navLabel>
+        <content src="txt/los_secretos.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>La Fatiga</text>
+        </navLabel>
+        <content src="txt/los_secretos.xhtml#toc_3"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>El Vuelo</text>
+        </navLabel>
+        <content src="txt/los_secretos.xhtml#toc_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Otoño</text>
+      </navLabel>
+      <content src="txt/otono.xhtml#toc_1"/>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Otoño</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>La Mujer Fuerte</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Los Cabellos</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_3"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>La Luna</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_4"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Nuestro Viejo Amor</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_5"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>El Recuerdo</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_6"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>Las Palomas</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_7"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Los Brotes</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_8"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>El Rumbo</text>
+        </navLabel>
+        <content src="txt/otono.xhtml#toc_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>El Mar</text>
+      </navLabel>
+      <content src="txt/el_mar.xhtml#toc_1"/>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>El Guijarro</text>
+        </navLabel>
+        <content src="txt/el_mar.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>La Esperanza</text>
+        </navLabel>
+        <content src="txt/el_mar.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Los Esploradores</text>
+        </navLabel>
+        <content src="txt/el_mar.xhtml#toc_3"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>La Despedida</text>
+        </navLabel>
+        <content src="txt/el_mar.xhtml#toc_4"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>El Mar Eterno</text>
+        </navLabel>
+        <content src="txt/el_mar.xhtml#toc_5"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>La Libertad</text>
+        </navLabel>
+        <content src="txt/el_mar.xhtml#toc_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Inquietud</text>
+      </navLabel>
+      <content src="txt/inquietud.xhtml#toc_1"/>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>Invocacion al Olvido</text>
+        </navLabel>
+        <content src="txt/inquietud.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>Oracion al Despertar</text>
+        </navLabel>
+        <content src="txt/inquietud.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>El Deseo sin Nombre</text>
+        </navLabel>
+        <content src="txt/inquietud.xhtml#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Breves Historias</text>
+      </navLabel>
+      <content src="txt/breves_historias.xhtml#toc_1"/>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>El Heredero</text>
+        </navLabel>
+        <content src="txt/breves_historias.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>El Pájaro Muerto</text>
+        </navLabel>
+        <content src="txt/breves_historias.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>Las Rosas</text>
+        </navLabel>
+        <content src="txt/breves_historias.xhtml#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>Los Niños</text>
+      </navLabel>
+      <content src="txt/los_ninos.xhtml#toc_1"/>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>Respuestas a los Niños</text>
+        </navLabel>
+        <content src="txt/los_ninos.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>La Buena Mentira</text>
+        </navLabel>
+        <content src="txt/los_ninos.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>Cancion</text>
+        </navLabel>
+        <content src="txt/los_ninos.xhtml#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>Malezas</text>
+      </navLabel>
+      <content src="txt/malezas.xhtml#toc_1"/>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>Vagabundo</text>
+        </navLabel>
+        <content src="txt/malezas.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>Las Malezas</text>
+        </navLabel>
+        <content src="txt/malezas.xhtml#toc_2"/>
+      </navPoint>
     </navPoint>
   </navMap>
 </ncx>
